@@ -3,7 +3,7 @@
 title: MD. Raihanul Islam
 
 # Name pronunciation (optional)
-name_pronunciation: 'He/ Him'
+name_pronunciation: 'He/Him'
 
 # Full name (for SEO)
 first_name: MD. Raihanul
@@ -120,8 +120,6 @@ awards:
 
 ## About Me
 
-MD. Raihanul Islam is a graduate student in Earth and Planetary Sciences at the University of California, Riverside. His research interests include river bar dynamics, avulsion processes, and sediment transport. He earned his BSc in Civil and Water Resources Engineering from the Military Institute of Science and Technology (MIST), Dhaka, in 2019.
+MD. Raihanul Islam is a upcoming graduate student in Earth and Planetary Sciences at the University of California, Riverside. He earned his BSc in Civil and Water Resources Engineering from the Military Institute of Science and Technology (MIST), Dhaka, in 2019.
 
-Raihanul began his career as a Junior GIS Analyst at the Institute of Water Modelling (IWM) in 2019 and transitioned to the River Morphology and Engineering Division in 2021. Over the course of his 5.75-year tenure at IWM, he gained extensive experience in water resources management, including geomorphological analysis, hydrodynamic modeling, and GIS-based assessments.
-
-He has received specialized training in “Computational Hydraulics, Hydrology and Statistics for Water Management” from the Bangladesh University of Engineering and Technology (BUET). Raihanul has authored four peer-reviewed papers in reputed scientific journals.
+Raihanul began his career at the Institute of Water Modelling (IWM) in 2019. Over the course of his 5.75-years tenure at IWM, he gained extensive experience in water resources management, including geomorphological analysis, hydrodynamic modeling, and GIS-based assessments. He has received specialized training in “Computational Hydraulics, Hydrology and Statistics for Water Management” from the Bangladesh University of Engineering and Technology (BUET). Raihanul has authored four peer-reviewed papers in reputed scientific journals.
